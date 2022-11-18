@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2B27F7&width=435&lines=%F0%9F%91%8B+Hi%2C+My+name+is+%40yosinori0621" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Distressed&pause=1000&color=02F751&width=435&lines=Hi!+%E3%80%80My+name+is+Yoshinori.;This+Account+for+business+use.)](https://git.io/typing-svg)
 
 <!---
 👋 Hi, I’m @yosinori0621
